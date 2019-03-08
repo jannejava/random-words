@@ -1,0 +1,17 @@
+{
+    "name": "eastwest/random-words",
+    "description": "Get a random English word",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jan Östlund",
+            "email": "janne@eastwest.se"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eastwest\\RandomWords\\": "src/"
+        }
+    },
+    "require": {}
+}
